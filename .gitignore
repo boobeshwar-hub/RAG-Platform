@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment files with secrets
+.env
+*.local.env
+
+# Database and uploads
+*.db
+*.sqlite3
+uploads/*
+!uploads/.gitkeep
+
+# Node / Frontend
+node_modules/
+dist/
+build/
+.npm
+*.log
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

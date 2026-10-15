@@ -1,0 +1,2 @@
+Exception_ID,Target_Asset,Policy_Ref,Justification,Approval_Status,Valid_From,Valid_Until,Approved_By
+EXC-2026-088,srv-prod-01,POL-SEC-2026-04,Database clustering latency bug with PAM Duo module; patch scheduled for Q4 maintenance.,Approved,2026-02-01,2026-11-30,CISO Office

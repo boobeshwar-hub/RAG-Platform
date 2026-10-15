@@ -1,0 +1,7 @@
+Server_Hostname,Environment,IP_Address,OS,MFA_Status,Primary_Workload
+srv-prod-01,Production,10.0.1.14,Ubuntu 24.04,Disabled,Core Database Primary
+srv-prod-02,Production,10.0.1.15,RHEL 9.2,Disabled,Payment Gateway API
+srv-prod-03,Production,10.0.1.16,Windows Server 2022,Disabled,Active Directory Replica
+srv-prod-04,Production,10.0.1.17,Ubuntu 24.04,Enabled,Frontend Web Cluster 01
+srv-prod-05,Production,10.0.1.18,Ubuntu 24.04,Enabled,Frontend Web Cluster 02
+srv-stage-01,Staging,10.0.2.10,Ubuntu 24.04,Disabled,Staging Build Node
